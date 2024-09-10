@@ -6,6 +6,7 @@ int main()
 {
     int x=0;
     cout<<"this is test.cpp of main";
+    cout<<"Hello Main";
     return 0;
 
 }
