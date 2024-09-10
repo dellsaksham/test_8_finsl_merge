@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
     int x=0;
+    cout<<"this is test.cpp of main";
+    cout<<"Hello Main";
     cout<<"this is test.cpp of branch1";
     
     if(1)
@@ -15,6 +17,7 @@ int main()
     for(int i=0; i<=10;i++)
         cout<<"into branch1";
 
+        cout<<"into main branch";
 
     return 0;
 
